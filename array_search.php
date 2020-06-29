@@ -3,4 +3,6 @@
 
 	$cari = array_search("Dinda", $siswa);
 	echo "Terdapat pada index: " . "$cari";
+
+	echo "Halo";
  ?>
